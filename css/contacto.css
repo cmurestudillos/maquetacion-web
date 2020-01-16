@@ -1,0 +1,14 @@
+/* Formatear valores de estilos */
+*{
+	margin:0;
+	padding:0;
+	text-decoration:none;
+	list-style:none;
+}
+	
+body{
+	background:url(../img/contacto.jpg);
+	background-position: top center;
+	height:1080px;
+	
+}
